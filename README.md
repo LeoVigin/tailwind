@@ -14,7 +14,7 @@ npm install
 npm run dev -- -o
 ```
 
-You can access the deployed project here: [Tailwind](tailwind1-topaz.vercel.app)
+You can access the deployed project here: [Tailwind](https://tailwind-7875cqgos-leos-projects-98d91797.vercel.app/)
 
 ## Authors
 @Leogeox
