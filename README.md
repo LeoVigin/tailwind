@@ -3,7 +3,9 @@ This project is a small interface where we had to make a maquette on front using
 
 ## Installation & Start
 - Download the folder or clone the repository using
-git clone https://github.com/Leogeox/object-oriented-architecture.git
+``` php
+git clone https://github.com/LeoVigin/tailwind.git
+```
 - Open the project in any local development server.
 - Install the dependencies:
 ``` js
