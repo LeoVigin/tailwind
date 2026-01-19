@@ -20,4 +20,4 @@ npm run dev
 You can access the deployed project here: [Tailwind](https://tailwind-7875cqgos-leos-projects-98d91797.vercel.app/)
 
 ## Authors
-@Leogeox
+@LeoVigin
